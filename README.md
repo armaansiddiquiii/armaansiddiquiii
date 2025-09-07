@@ -1,4 +1,4 @@
-<b><h1 align="center">Welcome To My Github Profile!! Myself, Armaan.</h1></b>
+<b><h1 align="center">Welcome To My Github Profile!! I'm Armaan.</h1></b>
 <h3 align="center">Full-Stack developer | Web3 Explorer | Open-source enthusiast</h3>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT AND DEVOPS**
